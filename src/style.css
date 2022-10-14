@@ -80,3 +80,7 @@
   padding: 2px 2px;
   text-align: center;
 }
+.link {
+  display: block;
+  text-align: center;
+}
